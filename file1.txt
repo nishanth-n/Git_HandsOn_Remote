@@ -1,0 +1,3 @@
+This it the first file created in git local repo
+Initial changes to the file
+change made when the file is in staging area
